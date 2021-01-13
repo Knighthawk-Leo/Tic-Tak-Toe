@@ -1,0 +1,30 @@
+         TIC-TAK-TOE
+
+THIS IS THE SIMPLE TIC TAK TOE GAME USING PYTHON ONLY WITHOUT USING ANY PYTHON LIBRARIES 
+
+
+ALL RIGHTS REVERSED TO - SANSKAR DWIVEDI 
+
+
+
+THIS IS A TWO PLAYERS GAME ONE FOR X  AND ONE FOR 0
+
+THE BOARD LOOKS LIKE THIS
+     |     |   
+-----------------
+     |     |   
+-----------------
+     |     |   
+
+PLAYERS HAS TO INPUT THE VALUES ALTERNATIVELY
+AND ACCORDING TO THIS NUMBER PLACES
+
+  1  |  2  |  3
+-----------------
+  4  |  5  |  6
+-----------------
+  7  |  8  |  9
+
+
+
+
